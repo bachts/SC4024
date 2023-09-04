@@ -1,0 +1,32 @@
+1) 
+DISCRETE: Certain pre-determined value, Often through counting =>Tally chart, pie chart
+CONTINUOUS: Any value by measuring => line graph
+
+a) Discrete
+b) Continuous
+c) Discrete
+d) Continuous
+e) Discrete 
+
+2)
+
+a) SG army rank = Ordinal: Category with rank
+b) Students in CZ4124 = Ratio: Number with absolute zero and scale
+c) Shoe sizes = Interval/Ordinal
+d) Jersey Number = Nominal: Category without rank
+
+3)
+Student ID: Nominal
+Gender: Nominal
+YOB: Interval
+Attendance: Ratio
+Score: Ratio
+Grade: Ordinal
+Completion time: Ratio
+
+4) Completion time can be a continuous data variable. 
+
+5) 3 data dimensions are visualized simultaneously: Operating System, Age bracket and the respective percentage.
+Age bracket: Ordinal
+Operating System: Nominal
+Percentage: Ratio
